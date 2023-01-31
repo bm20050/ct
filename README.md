@@ -2,4 +2,3 @@
 ## 교재 내용 코드 연습
 + 01.28 greedy, implementation
 + 01.29 DFS, BFS
-+ 01.31 Sorting
