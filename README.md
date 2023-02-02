@@ -4,3 +4,4 @@
 + 01.29 DFS, BFS
 + 01.31 Sorting
 + 02.01 Binary Search
++ 02.02 Dynamic Programming
