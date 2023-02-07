@@ -8,4 +8,5 @@
 + 02.03 Dynamic Programming
 + 02.04 Shortest Path (Dijkstra, Floyd-Warshall)
 + 02.05 Graph (Disjoint Sets, Kruskal, Topology Sort)
-+ 02.06 Greedy (01, 02, 03)
++ 02.07 Greedy (01, 02, 03)
++ 02.08 Greedy (04, 05)
