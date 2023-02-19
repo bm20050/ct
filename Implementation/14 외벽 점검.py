@@ -36,5 +36,6 @@ weak = [1, 5, 6, 10]
 dist = [1, 2, 3, 4]
 weak2 = [1, 3, 4, 9, 10]
 dist2 = [3, 5, 7]
+
 print(solution(n, weak, dist))
 print(solution(n, weak2, dist2))
